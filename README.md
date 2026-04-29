@@ -12,9 +12,10 @@ GitHub Dark Default color theme for [Obsidian](https://obsidian.md). Colors sour
 
 ### Manual
 
-1. Download `theme.css` from this repository
-2. Copy it to `<your-vault>/.obsidian/themes/GitHub Dark Default/theme.css`
-3. Open Settings → Appearance → Themes → select **GitHub Dark Default**
+1. Download `theme.css` and `manifest.json` from this repository
+2. Create the folder `<your-vault>/.obsidian/themes/GitHub Dark Default/`
+3. Copy both files into that folder
+4. Open Settings → Appearance → Themes → select **GitHub Dark Default**
 
 ## What's themed
 
